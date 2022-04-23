@@ -1,5 +1,6 @@
 # Assignment6
 Pandas----------
+
 Assignments on Pandas and Numpy
 
 Using Juypter notebook in python version 3.6
@@ -15,6 +16,7 @@ Also seting  the index with a variable name and resetting the index to the origi
 Also getting the first five rowns.
 
 -----NUMPY--------------
+
 Also crated a 2 dimensional array by importing Numpy  as np to be able to work in jupyter notebook
 
 Also transposing the 2 Dimensional array to get a new shape
